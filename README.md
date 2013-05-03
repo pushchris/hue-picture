@@ -1,6 +1,10 @@
 hue-picture
 ===========
 
-A simple script to extract colors from an image and reflect that in Philips Hue lights
+A simple node.js script to extract colors from an image and reflect that in [Philips Hue](http://www.meethue.com) lights.
 
-Requirements
+
+## Installation & Usage
+
+* Install ImageMagick.
+* Run: sudo node app.js
