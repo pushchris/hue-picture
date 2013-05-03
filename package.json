@@ -1,0 +1,22 @@
+{
+  "name": "HuePicture",
+  "version": "0.0.2",
+  "description": "An API to extract colors from an image and reflect that in the Hue lights",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hue-module": "0.0.7",
+    "underscore": "x",
+    "onecolor" : "x"
+  },
+  "repository": "",
+  "keywords": [
+    "philips",
+    "hue",
+    "picture"
+  ],
+  "author": "Chris Anderson",
+  "license": "BSD"
+}
